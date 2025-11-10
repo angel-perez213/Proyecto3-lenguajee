@@ -25,4 +25,3 @@ Aplicación en Python 3 con Tkinter (GUI simple) para simular máquinas de Turin
 2. Abre una terminal o PowerShell y ejecuta:
    ```bash
    git clone https://github.com/angel-perez213/Proyecto3-lenguajee.git
-   cd <tu-repo>
