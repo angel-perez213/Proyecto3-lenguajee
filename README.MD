@@ -1,4 +1,4 @@
-# Proyecto Final — Simulador de Máquina de Turing + Regex Lab
+# Proyecto 3 — Simulador de Máquina de Turing + Regex Lab
 
 Aplicación en Python 3 con Tkinter (GUI simple) para simular máquinas de Turing y probar 10 expresiones regulares mediante coincidencia completa (full match). Compatible con Windows, macOS y Linux.
 
